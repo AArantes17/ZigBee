@@ -8,7 +8,9 @@ types of statistics that will allow us to compare the functionality, efficiency 
 network in different situations.
 
 TopologiesZigbee.project - zigbee network with the same trajectory for nodes.
+
 TopologiesZigbeeApproximation.project - zigbee network with trajectory that approximates the final devices and routers of the coordinator.
+
 TopologiesZigbeeDistances.project - zigbee network with trajectory that moves the final devices and routers of the coordinator.
 
 All projects have the topologies, tree, star and mesh.
